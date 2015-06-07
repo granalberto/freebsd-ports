@@ -1,0 +1,13 @@
+TODO:
+
+- upgrade libvpx port to 1.4 in ports collection make port for libyuv
+- change pkg-config file names in lua5.2 package or do the opossite in
+configure script (currently named lua-5.2)
+- create package for libyuv
+
+REQUIRE:
+
+lua5.2
+opus
+yasm
+e2fsprogs-libuuid
