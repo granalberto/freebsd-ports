@@ -11,3 +11,4 @@ lua5.2
 opus
 yasm
 e2fsprogs-libuuid
+libsndfile
